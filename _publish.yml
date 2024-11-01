@@ -1,0 +1,4 @@
+- source: shr_ppt_try1.qmd
+  quarto-pub:
+    - id: dbabe4fc-4e63-4f81-88a9-5f54fa575607
+      url: 'https://shreyash.quarto.pub/ppt_template'
